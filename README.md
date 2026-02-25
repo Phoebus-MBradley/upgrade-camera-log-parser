@@ -1,9 +1,9 @@
 # upgrade-camera-log-parser
 This repo contains scripts which parse versions of upgrade-camera log files from the IceCube Collaboration into JSON files.
 
-V0 is compatible with log files from Jan 15th-17th (and potentially earlier)
+V0 is compatible with log files from Jan 10th-17th
 
-V1 is compatible with log files from Jan 18th-21st (and potentially later)
+V1 is compatible with log files from Jan 18th-21st
 ## JSON File Overview
 ### Variables included in JSON files
 - RETRY - number of attempts at capturing image (?)
