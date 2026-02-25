@@ -4,6 +4,8 @@ This repo contains scripts which parse versions of upgrade-camera log files from
 V0 is compatible with log files from Jan 10th-17th
 
 V1 is compatible with log files from Jan 18th-21st
+
+V2 is compatible with log files from Jan22nd (potentially later)
 ## JSON File Overview
 ### Variables included in JSON files
 - RETRY - number of attempts at capturing image (?)
